@@ -59,7 +59,7 @@ This will:
 
 ---
 
-## ✏️ Configuration
+## Configuration
 
 To change the stock ticker:
 
